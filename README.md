@@ -45,7 +45,6 @@ Continuation of the screenshot:
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project: 
 
-GIT repo: https://github.com/nisha4r/01-challenge-css-html-homework/README.md
-
+GIT repo: https://github.com/nisha4r/01-challenge-css-html-homework#readme
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
