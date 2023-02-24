@@ -43,7 +43,7 @@ Continuation of the screenshot:
 
 * The URL of the deployed application: https://nisha4r.github.io/01-challenge-css-html-homework/
 
-* The URL of the GitHub repository, with a unique name and a README that describes the project: 
+* The URL of the GitHub repository: 
 
 GIT repo: https://github.com/nisha4r/01-challenge-css-html-homework#readme
 ---
